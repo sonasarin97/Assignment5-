@@ -51,4 +51,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+data/
 crimes-reduced.csv
+shapefile.*
