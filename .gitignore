@@ -54,3 +54,4 @@ rsconnect/
 data/
 crimes-reduced.csv
 shapefile.*
+api.env
